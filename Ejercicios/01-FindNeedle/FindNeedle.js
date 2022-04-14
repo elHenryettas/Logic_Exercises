@@ -20,6 +20,6 @@ function FindNeedle(haystack, needle) {
 
 // ver tamaños que no sea menor el needle que el haystack
 // iterar el haystack
-// buscamos la primer letra del needle y vemos si coincide hay adelante
+// buscamos la primer letra del needle y vemos si coincide hay adelante asdsadasdasdasdasdas
 
 module.exports = FindNeedle;
